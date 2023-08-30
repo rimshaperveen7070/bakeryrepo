@@ -1,0 +1,208 @@
+
+    .bg{ 
+        background-image: url(./assests/bg\ image.jpg);
+        background-size:cover ;
+        background-position: center;
+        overflow: hidden;
+        font-size: 30px;
+        
+        
+    } .a{
+        color: rgb(219, 18, 192);
+        font-size: 200pxpx;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+
+    }
+    .a1{ 
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(61, 202, 221);
+       
+    }
+.nav1{
+    border: 2px solid;
+    background-color:rgb(240, 176, 215);
+    justify-content: flex-end;
+}
+p{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(10, 18, 126) ;
+}
+p.a1{ float: inline-start;
+    justify-content:space-between ;
+}
+.a2{
+    float: right;
+}
+.im1{
+    float: right;
+    margin-top: -170px;
+}
+.bg2{
+    background-color: antiquewhite;
+    margin-top: -15px;
+    }
+.h1{
+    color:blueviolet;
+}
+.p1{
+    color:deeppink;
+    font-size:15px;
+
+}
+.bg3{
+    border: 2px;
+    height: 350px;
+    width: 100%;
+    background-color:lemonchiffon;
+    margin-top: -15px;
+}
+.h2{
+    color:orangered;
+    text-align: center;
+}
+.p2{
+    color:blue;
+    font-size: 15px;
+}
+.c1{
+    color:blue;
+    margin-top: -30px;
+}
+.h3{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p3{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d1{
+    float: left;
+}
+.r1{
+    float: left;
+}
+.h4{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p4{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d2{
+    float: left;
+}
+.r2{
+    float: left;
+}
+.h5{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p5{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d3{
+    float: left;
+}
+.r3{
+    float: left;
+}
+.h6{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p6{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d4{
+    float:right;
+    margin-top: -40px;
+}
+.r4{
+    float: left;
+}
+.h7{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p7{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d5{
+    float:left
+}
+.r5{
+    float:left;
+}
+.h8{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p8{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d6{
+    float:left
+}
+.r6{
+    float: left;
+}
+.h9{
+    color:deeppink;
+    margin-top: -5px;
+}
+.p9{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d7{
+    float:left;
+    
+}
+.r7{
+    float: left;
+}
+.h10{
+    color:deeppink;
+    margin-top: 5px;
+}
+.p10{
+    color: blueviolet;
+    margin-top: -15px;
+    font-size: 15px;
+}
+#d8{
+    float:right;
+    margin-top: -15px;
+}
+.r8{
+    float: left;
+}
+.bg4{
+    height: 100px;
+    width: 100%;
+    background-color:palegreen;
+    text-decoration:underline ;
+    color:deeppink;
+    text-align: center;
+    margin-top: -15px;
+}
+#nl{
+    float:right
+}
+
+
